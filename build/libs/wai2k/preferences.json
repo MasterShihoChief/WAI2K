@@ -1,0 +1,22 @@
+{
+  "current_profile" : "Default",
+  "sikulix_jar_path" : "file:///C:/Users/wrait/StudioProjects/WAI2K/build/libs/",
+  "adb_path" : "file:///C:/Users/wrait/StudioProjects/WAI2K/build/libs/",
+  "clear_console_on_start" : true,
+  "show_console_on_start" : true,
+  "debug_mode_enabled" : true,
+  "last_device_serial" : "",
+  "script_config" : {
+    "loopDelay" : 15,
+    "sikulixScanRate" : 20,
+    "mouseDelay" : 0.15,
+    "defaultSimilarityThreshold" : 0.9,
+    "mapRunnerSimilarityThreshold" : 0.85,
+    "fastScreenshotMode" : false
+  },
+  "game_restart_config" : {
+    "enabled" : false,
+    "averageDelay" : 1600,
+    "delayCoefficientThreshold" : 1.5
+  }
+}
